@@ -1,6 +1,2 @@
-def main():
-    print("Hello from churn-prediction-app!")
-
-
-if __name__ == "__main__":
-    main()
+# Gender -> Male - 1 ; Female - 0
+# Churn -> Yes - 1 ; No - 0
